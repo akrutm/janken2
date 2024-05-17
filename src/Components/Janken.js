@@ -1,5 +1,5 @@
-import PcHand from "./PcHand";
-import Results from "./Results";
+import PcHand from "PcHand";
+import Results from "Results";
 import React, { useRef, useState } from 'react';
 import '../janken.css';
 

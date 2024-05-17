@@ -1,5 +1,5 @@
 
-import Janken from "./Components/Janken";
+import Janken from "Components/Janken";
 
 const TopPage = () => {
 
@@ -16,7 +16,7 @@ const TopPage = () => {
                     <p>
                         出すものを選んでね
                     </p>
-                   
+
                 </header>
 
             </div>
