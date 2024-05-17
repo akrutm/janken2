@@ -1,5 +1,5 @@
 
-import Janken from "Components/Janken";
+import Janken from "./Components/Janken";
 
 const TopPage = () => {
 
