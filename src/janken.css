@@ -1,0 +1,29 @@
+.User{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.Gu{
+    width: 33%;
+}
+.Cho{
+    width: 33%;
+}
+.Par{
+    width: 33%;
+}
+h1{font-size: 56px;}
+
+.pc{
+    margin: 40px 0 40px 0;
+}
+
+.Result{
+    margin-bottom: 20px;
+}
+
+.again{
+    margin: 80px 0;
+}
