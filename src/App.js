@@ -1,6 +1,6 @@
 
-import './App.css';
-import TopPage from './TopPage';
+import '/App.css';
+import TopPage from '/TopPage';
 
 function App() {
   return (
